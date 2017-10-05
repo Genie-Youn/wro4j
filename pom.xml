@@ -96,7 +96,7 @@
                 <artifactId>wro4j-maven-plugin</artifactId>
                 <version>${project.version}</version>
             </dependency>      
-      <!-- Other Dependencies -->
+        <!-- Other Dependencies -->
             <dependency>
                 <groupId>commons-io</groupId>
                 <artifactId>commons-io</artifactId>
